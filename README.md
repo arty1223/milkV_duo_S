@@ -9,5 +9,5 @@ List of added packages:
 4. htop
 
 Additional scripts:
-*Fixed MAC address – added the script from [this guide](https://milkv.io/docs/duo/getting-started/duos#fixed-wifi-mac-address).
-*Root partition resizing – added the script from [here](https://milkv.io/docs/duo/getting-started/setup#extended-root-partition-for-sd-card-boot-mode).
+* Fixed MAC address – added the script from [this guide](https://milkv.io/docs/duo/getting-started/duos#fixed-wifi-mac-address).
+* Root partition resizing – added the script from [here](https://milkv.io/docs/duo/getting-started/setup#extended-root-partition-for-sd-card-boot-mode).
