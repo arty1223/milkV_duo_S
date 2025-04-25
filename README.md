@@ -1,5 +1,5 @@
 # milkV_duo_S
-Custom-built Milk-V Duo S firmware with additional basic software.
+Custom-built Milk-V Duo S firmware with additional basic software.  
 Additional software was installed via Buildroot's menuconfig, following [this guide](https://milkv.io/docs/duo/getting-started/buildroot-sdk#configure-application-packages-preset-in-buildroot).
 
 List of added packages:
